@@ -2,7 +2,7 @@
 
 This site explains how websites use certificates issued by a Certificate Authority to secure their site. Along the way, we'll explain how to examine the certificate a website uses, how the Certificate Authority system works, and how to get a certificate for your website for free using CertBot from Let's Encrypt.
 
-## Introduction to Certificates
+## Introduction to Certificatesc
 
 When you browse to a website that is secure, your web browser will show that it is using HTTPS and also some form of security indicator, typically a lock icon:
 
